@@ -7,12 +7,10 @@
 
 ### About me :eyes:
 
-- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
-- :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
-- :e-mail: Ask me about anything ; **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
+- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Big data | NoSQL   
+- :e-mail: Ask me about anything ; **soarovchakraborty@gmail.com](soarovchakraborty@gmail.com)**
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&hide_border=true)
+![Soarov's github stats](https://github-readme-stats.vercel.app/api?username=dream-kid&show_icons=true&hide_border=true)
 
 ### Languages and Tools :computer:
 
