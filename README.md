@@ -8,7 +8,7 @@
 ### About me :eyes:
 
 - :dart: Full stack development | Machine learning | Deep learning | Computer vision | Big data | NoSQL   
-- :e-mail: Ask me about anything ; **soarovchakraborty@gmail.com](soarovchakraborty@gmail.com)**
+- :e-mail: Ask me about anything ; **soarovchakraborty@gmail.com**
 
 ![Soarov's github stats](https://github-readme-stats.vercel.app/api?username=dream-kid&show_icons=true&hide_border=true)
 
