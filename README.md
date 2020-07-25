@@ -1,11 +1,9 @@
 
-### Hey 👋, I'm [Hritik Jaiswal]() 👨‍💻
+### Hey 👋, I'm [Soarov Chakraborty]() 👨‍💻
 
 
 
-:smiley: Technical member of **[Team KJSCE Robocon](https://kjscerobocon.tech/)** 
-
-👨‍🎓 B.Tech in information technology from the **[K.J Somaiya college of engineering](https://kjsce.somaiya.edu/en)** 
+👨‍🎓 B.Sc. in Computer Science and Engineering from the **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)** 
 
 ### About me :eyes:
 
