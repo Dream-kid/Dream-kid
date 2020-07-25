@@ -10,7 +10,7 @@
 - :dart: Full stack development | Machine learning | Deep learning | Computer vision | Big data | NoSQL   
 - :e-mail: Ask me about anything ; **soarovchakraborty@gmail.com**
 
-![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=dream-kid&show_icons=true&hide_border=true)
+![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=dream-kid&show_icons=true&hide_border=false)
 
 ### Languages and Tools :computer:
 
