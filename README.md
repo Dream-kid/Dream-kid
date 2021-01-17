@@ -28,7 +28,7 @@
 
 |  <a href="https://Dream-kid.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Sourav Chakraborty](https://sites.google.com/view/soarovchakraborty)**                                                                                |
+|       **[Sourav Chakraborty](https://www.researchgate.net/profile/Soarov_Chakraborty)**                                                                                |
 |<a href="https://github.com/Dream-kid"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/sourav.chakraborty.dream.kid"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/soarovchakraborty/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 
