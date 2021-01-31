@@ -20,7 +20,9 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/Dream-kid)](https://github.com/Dream-kid)
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Dream-kid)](https://github.com/Dream-kid)
+
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/Dream-kid)](https://github.com/Dream-kid)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Dream-kid)](https://github.com/Dream-kid) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/Dream-kid)](https://gitlab.com/Dream-kid) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Dream-kid)](https://github.com/Dream-kid)
 
