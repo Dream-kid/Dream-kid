@@ -1,5 +1,5 @@
 
-### Hey 👋, I'm **[Sourav Chakraborty](https://www.researchgate.net/profile/Soarov_Chakraborty)**() 👨‍💻
+### Hey 👋, I'm **[Sourav Chakraborty](https://www.researchgate.net/profile/Soarov_Chakraborty)** 👨‍💻
 
 
 
